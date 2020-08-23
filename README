@@ -1,0 +1,5 @@
+version of python: 3.7.7
+version of torch: 1.5.1
+database: CelebA
+__________________________________________
+application of generating human face image via DCgan
